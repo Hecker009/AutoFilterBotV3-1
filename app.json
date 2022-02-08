@@ -14,7 +14,7 @@
       "robot"
     ],
     "website": "https://t.me/Starkbotz",
-    "repository": "https://github.com/SpideyserTG/AutoFilterBotV3",
+    "repository": "https://github.com/Hecker009/AutoFilterBotV3",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
